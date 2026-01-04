@@ -13,18 +13,18 @@ A lightweight, accessible dual-handle range slider component built with vanilla 
 
 `JS Script`
 ```
-https://cdn.jsdelivr.net/gh/drawliin/dual-input-range@v1.0.0/dist/range-slider.min.js
+https://cdn.jsdelivr.net/gh/drawliin/dual-handle-range@v1.0.0/dist/range-slider.min.js
 
 ```
 `CSS`
 ```
-https://cdn.jsdelivr.net/gh/drawliin/dual-input-range@v1.0.0/dist/range-slider.min.css
+https://cdn.jsdelivr.net/gh/drawliin/dual-handle-range@v1.0.0/dist/range-slider.min.css
 ```
 
 2. Include in your HTML
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/drawliin/dual-input-range@v1.0.0/dist/range-slider.min.css">
-<script src="https://cdn.jsdelivr.net/gh/drawliin/dual-input-range@v1.0.0/dist/range-slider.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/drawliin/dual-handle-range@v1.0.0/dist/range-slider.min.css">
+<script src="https://cdn.jsdelivr.net/gh/drawliin/dual-handle-range@v1.0.0/dist/range-slider.min.js"></script>
 ```
 
 ## Usage
